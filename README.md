@@ -26,7 +26,7 @@
 
 ## 3 算法步骤
 
-![DBSCAN聚类算法流程图](/Users/linshengfeng/学习/机器学习/强化学习/dbscan_cluster/DBSCAN聚类算法流程图.jpg)
+![DBSCAN聚类算法流程图](https://github.com/LinShengfeng-code/DBSCAN_Cluster/blob/main/DBSCAN%E8%81%9A%E7%B1%BB%E7%AE%97%E6%B3%95%E6%B5%81%E7%A8%8B%E5%9B%BE.jpg)
 
 > - 首选任意选取一个点，然后找到到这个点距离小于等于 eps 的所有的点。如果距起始点的距离在 eps 之内的数据点个数小于 ```MinPts```，那么这个点被标记为**噪声。**如果距离在 eps 之内的数据点个数大于 ```MinPts```，则这个点被标记为**核心样本**，并被分配一个新的簇标签。
 >
