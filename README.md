@@ -6,16 +6,16 @@
 >
 > 
 >
-> 作者：dreampai
-> 链接：https://www.jianshu.com/p/e594c2ce0ac0
-> 来源：简书
-> 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+> 作者：dreampai.  
+> 链接：https://www.jianshu.com/p/e594c2ce0ac0.  
+> 来源：简书.  
+> 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。  
 
 ## 2 算法原理
 
 ### 2.1 超参数
 
-- 搜索半径```Eps```: 以某点为圆心, 以```Eps```为半径的圆称作该点的邻域
+- 搜索半径```Eps```: 以某点为圆心, 以```Eps```为半径的圆称作该点的邻域 
 - 点数阈值```MinPts```: 某点邻域范围内的样本数超过该阈值, 才会将该点视为某个簇的**核心点(```CORE```, 2.2中将介绍)**
 
 ### 2.2 点的分类
@@ -36,10 +36,10 @@
 >
 > 
 >
-> 作者：dreampai
-> 链接：https://www.jianshu.com/p/e594c2ce0ac0
-> 来源：简书
-> 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+> 作者：dreampai  
+> 链接：https://www.jianshu.com/p/e594c2ce0ac0  
+> 来源：简书  
+> 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。  
 
 ## 4 类/方法的设计
 
@@ -145,10 +145,10 @@ dbScanCluster(total_size=100, eps=100, min_pts=2)
 >
 > ![](https://github.com/LinShengfeng-code/DBSCAN_Cluster/blob/main/%E5%BD%A9%E8%9B%8B.jpg)
 >
-> 作者：dreampai
-> 链接：https://www.jianshu.com/p/e594c2ce0ac0
-> 来源：简书
-> 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+> 作者：dreampai  
+> 链接：https://www.jianshu.com/p/e594c2ce0ac0  
+> 来源：简书  
+> 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。  
 
 ## 附 代码
 
