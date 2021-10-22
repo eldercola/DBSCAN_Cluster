@@ -132,7 +132,7 @@ def scatterDifferent(x, y, label, cluster_num, color_list, marker_list):
 dbScanCluster(total_size=100, eps=100, min_pts=2)
 ```
 
-![](/Users/linshengfeng/学习/机器学习/强化学习/dbscan_cluster/100点带图例聚类.jpg)
+![](https://github.com/LinShengfeng-code/DBSCAN_Cluster/blob/main/100%E7%82%B9%E5%B8%A6%E5%9B%BE%E4%BE%8B%E8%81%9A%E7%B1%BB.jpg)
 
 > 小彩蛋
 >
