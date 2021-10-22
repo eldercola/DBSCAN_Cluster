@@ -1,6 +1,8 @@
 # DB SCAN Cluster
 
-> <font color = "red">注意: github的readme.md并不支持markdown内置的mermaid(作UML图的神器), 可移步到我个人的[CSDN](https://blog.csdn.net/weixin_45439696/article/details/120902405)  </font>
+```diff
+- 注意: github的readme.md并不支持markdown内置的mermaid(作UML图的神器), 可移步到我个人的[CSDN](https://blog.csdn.net/weixin_45439696/article/details/120902405)  
+```
 
 ## 1 简介 Introduction
 
