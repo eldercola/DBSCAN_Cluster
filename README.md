@@ -143,7 +143,7 @@ dbScanCluster(total_size=100, eps=100, min_pts=2)
 > - 虽然不需要显示设置簇的个数，但设置 eps 可以隐式地控制找到 eps 的个数。
 > - 使用 StandarScaler 或 MinMaxScaler 对数据进行缩放，有时更容易找到 eps 的较好取值。因为使用缩放技术将确保所有特征具有相似的范围。
 >
-> ![](/Users/linshengfeng/学习/机器学习/强化学习/dbscan_cluster/彩蛋.jpg)
+> ![](https://github.com/LinShengfeng-code/DBSCAN_Cluster/blob/main/%E5%BD%A9%E8%9B%8B.jpg)
 >
 > 作者：dreampai
 > 链接：https://www.jianshu.com/p/e594c2ce0ac0
