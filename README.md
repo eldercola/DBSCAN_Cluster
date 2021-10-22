@@ -1,5 +1,7 @@
 # DB SCAN Cluster
 
+> 注意: github的readme.md并不支持markdown内置的mermaid(作UML图的神器), 可移步到我个人的[CSDN](https://blog.csdn.net/weixin_45439696/article/details/120902405)  
+
 ## 1 简介 Introduction
 
 > DBSCAN（Density-Based Spatial Clustering of Applications with Noise，具有噪声的基于密度的聚类方法）是一种基于密度的空间聚类算法。该算法将具有足够密度的区域划分为簇，并在具有噪声的空间数据库中发现任意形状的簇，它将簇定义为密度相连的点的最大集合。
